@@ -1,0 +1,23 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/68/", 
+        "number": 68, 
+        "name": "Письма, 1895"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 98, 
+          "end": 98
+        }, 
+        {
+          "comment": 1, 
+          "start": 98, 
+          "end": 98
+        }
+      ]
+    }
+  ]
+}

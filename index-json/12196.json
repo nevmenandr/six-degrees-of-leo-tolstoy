@@ -1,0 +1,28 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/53/", 
+        "number": 53, 
+        "name": "Дневники и записные книжки, 1895—1899"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 530, 
+          "end": 530
+        }, 
+        {
+          "comment": 1, 
+          "start": 508, 
+          "end": 508
+        }, 
+        {
+          "comment": 0, 
+          "start": 365, 
+          "end": 365
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/50/", 
+        "number": 50, 
+        "name": "Дневники и записные книжки, 1888—1889"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 291, 
+          "end": 291
+        }, 
+        {
+          "comment": 1, 
+          "start": 238, 
+          "end": 238
+        }, 
+        {
+          "comment": 0, 
+          "start": 66, 
+          "end": 66
+        }, 
+        {
+          "comment": 0, 
+          "start": 64, 
+          "end": 64
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/64/", 
+        "number": 64, 
+        "name": "Письма, 1887—1889"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 247, 
+          "end": 247
+        }, 
+        {
+          "comment": 1, 
+          "start": 247, 
+          "end": 247
+        }
+      ]
+    }
+  ]
+}

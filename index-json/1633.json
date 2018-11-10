@@ -1,0 +1,51 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/20/", 
+        "number": 20, 
+        "name": "Анна Каренина: Черновые редакции и варианты"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 552, 
+          "end": 552
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/39/", 
+        "number": 39, 
+        "name": "Статьи, 1893—1898. Произведения, 1886, 1903—1909"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 46, 
+          "end": 46
+        }, 
+        {
+          "comment": 0, 
+          "start": 28, 
+          "end": 28
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/73/", 
+        "number": 73, 
+        "name": "Письма, 1901—1902"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 139, 
+          "end": 139
+        }
+      ]
+    }
+  ]
+}

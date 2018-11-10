@@ -1,0 +1,28 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/46/", 
+        "number": 46, 
+        "name": "Дневник, 1847—1854"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 472, 
+          "end": 472
+        }, 
+        {
+          "comment": 1, 
+          "start": 298, 
+          "end": 298
+        }, 
+        {
+          "comment": 0, 
+          "start": 250, 
+          "end": 250
+        }
+      ]
+    }
+  ]
+}

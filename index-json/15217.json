@@ -1,0 +1,28 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/48/", 
+        "number": 48, 
+        "name": "Дневники и записные книжки, 1858—1880"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 486, 
+          "end": 486
+        }, 
+        {
+          "comment": 0, 
+          "start": 148, 
+          "end": 148
+        }, 
+        {
+          "comment": 0, 
+          "start": 77, 
+          "end": 77
+        }
+      ]
+    }
+  ]
+}

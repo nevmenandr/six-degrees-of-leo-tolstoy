@@ -1,0 +1,51 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/06/", 
+        "number": 6, 
+        "name": "Казаки"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 8, 
+          "end": 8
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/17/", 
+        "number": 17, 
+        "name": "Произведения, 1863, 1870, 1872—1879, 1884"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 576, 
+          "end": 576
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/46/", 
+        "number": 46, 
+        "name": "Дневник, 1847—1854"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 337, 
+          "end": 337
+        }, 
+        {
+          "comment": 0, 
+          "start": 48, 
+          "end": 48
+        }
+      ]
+    }
+  ]
+}

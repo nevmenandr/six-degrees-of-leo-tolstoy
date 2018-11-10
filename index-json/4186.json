@@ -1,0 +1,48 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/72/", 
+        "number": 72, 
+        "name": "Письма, 1899—1900"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 213, 
+          "end": 213
+        }, 
+        {
+          "comment": 1, 
+          "start": 213, 
+          "end": 213
+        }, 
+        {
+          "comment": 0, 
+          "start": 184, 
+          "end": 184
+        }, 
+        {
+          "comment": 1, 
+          "start": 184, 
+          "end": 184
+        }, 
+        {
+          "comment": 1, 
+          "start": 149, 
+          "end": 149
+        }, 
+        {
+          "comment": 1, 
+          "start": 148, 
+          "end": 148
+        }, 
+        {
+          "comment": 0, 
+          "start": 147, 
+          "end": 147
+        }
+      ]
+    }
+  ]
+}

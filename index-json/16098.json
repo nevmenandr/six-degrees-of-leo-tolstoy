@@ -1,0 +1,23 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/25/", 
+        "number": 25, 
+        "name": "Произведения 1880-х годов"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 615, 
+          "end": 615
+        }, 
+        {
+          "comment": 0, 
+          "start": 184, 
+          "end": 184
+        }
+      ]
+    }
+  ]
+}

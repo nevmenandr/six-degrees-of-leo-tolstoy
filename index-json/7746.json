@@ -1,0 +1,28 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/71/", 
+        "number": 71, 
+        "name": "Письма, 1898"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 270, 
+          "end": 270
+        }, 
+        {
+          "comment": 1, 
+          "start": 260, 
+          "end": 260
+        }, 
+        {
+          "comment": 0, 
+          "start": 259, 
+          "end": 259
+        }
+      ]
+    }
+  ]
+}

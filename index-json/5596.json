@@ -1,0 +1,28 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/60/", 
+        "number": 60, 
+        "name": "Письма, 1856—1862"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 505, 
+          "end": 505
+        }, 
+        {
+          "comment": 0, 
+          "start": 488, 
+          "end": 488
+        }, 
+        {
+          "comment": 1, 
+          "start": 488, 
+          "end": 488
+        }
+      ]
+    }
+  ]
+}

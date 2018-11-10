@@ -1,0 +1,23 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/67/", 
+        "number": 67, 
+        "name": "Письма, 1894"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 123, 
+          "end": 123
+        }, 
+        {
+          "comment": 0, 
+          "start": 122, 
+          "end": 122
+        }
+      ]
+    }
+  ]
+}

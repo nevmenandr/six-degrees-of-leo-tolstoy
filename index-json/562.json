@@ -1,0 +1,37 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/33/", 
+        "number": 33, 
+        "name": "Воскресение: Черновые редакции и варианты"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 392, 
+          "end": 392
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/63/", 
+        "number": 63, 
+        "name": "Письма, 1880—1886"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 167, 
+          "end": 167
+        }, 
+        {
+          "comment": 0, 
+          "start": 166, 
+          "end": 166
+        }
+      ]
+    }
+  ]
+}

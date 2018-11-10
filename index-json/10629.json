@@ -1,0 +1,37 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/50/", 
+        "number": 50, 
+        "name": "Дневники и записные книжки, 1888—1889"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 339, 
+          "end": 339
+        }, 
+        {
+          "comment": 0, 
+          "start": 189, 
+          "end": 189
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/86/", 
+        "number": 86, 
+        "name": "Письма к В. Г. Черткову, 1887—1889"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 26, 
+          "end": 26
+        }
+      ]
+    }
+  ]
+}

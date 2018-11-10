@@ -1,0 +1,28 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/47/", 
+        "number": 47, 
+        "name": "Дневники и записные книжки, 1854—1857"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 484, 
+          "end": 484
+        }, 
+        {
+          "comment": 1, 
+          "start": 483, 
+          "end": 483
+        }, 
+        {
+          "comment": 0, 
+          "start": 147, 
+          "end": 147
+        }
+      ]
+    }
+  ]
+}

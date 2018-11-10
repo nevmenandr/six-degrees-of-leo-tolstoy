@@ -1,0 +1,18 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/24/", 
+        "number": 24, 
+        "name": "Произведения, 1880—1884"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 723, 
+          "end": 723
+        }
+      ]
+    }
+  ]
+}

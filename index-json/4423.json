@@ -1,0 +1,51 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/33/", 
+        "number": 33, 
+        "name": "Воскресение: Черновые редакции и варианты"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 372, 
+          "end": 372
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/49/", 
+        "number": 49, 
+        "name": "Записки христианина, дневники и записные книжки, 1881—1887"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 231, 
+          "end": 231
+        }, 
+        {
+          "comment": 0, 
+          "start": 88, 
+          "end": 88
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/85/", 
+        "number": 85, 
+        "name": "Письма к В. Г. Черткову, 1883—1886"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 86, 
+          "end": 86
+        }
+      ]
+    }
+  ]
+}

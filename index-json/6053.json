@@ -1,0 +1,23 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/69/", 
+        "number": 69, 
+        "name": "Письма, 1896"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 39, 
+          "end": 39
+        }, 
+        {
+          "comment": 1, 
+          "start": 37, 
+          "end": 37
+        }
+      ]
+    }
+  ]
+}

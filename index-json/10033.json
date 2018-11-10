@@ -1,0 +1,28 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/80/", 
+        "number": 80, 
+        "name": "Письма, 1909 (июль — декабрь)"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 198, 
+          "end": 198
+        }, 
+        {
+          "comment": 0, 
+          "start": 155, 
+          "end": 155
+        }, 
+        {
+          "comment": 1, 
+          "start": 100, 
+          "end": 100
+        }
+      ]
+    }
+  ]
+}

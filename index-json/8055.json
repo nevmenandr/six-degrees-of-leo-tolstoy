@@ -1,0 +1,32 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/28/", 
+        "number": 28, 
+        "name": "Царство божие внутри вас"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 150, 
+          "end": 150
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/39/", 
+        "number": 39, 
+        "name": "Статьи, 1893—1898. Произведения, 1886, 1903—1909"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 58, 
+          "end": 58
+        }
+      ]
+    }
+  ]
+}

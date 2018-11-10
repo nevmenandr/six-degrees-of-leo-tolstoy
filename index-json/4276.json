@@ -1,0 +1,156 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/31/", 
+        "number": 31, 
+        "name": "Произведения, 1890-1900"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 254, 
+          "end": 254
+        }, 
+        {
+          "comment": 0, 
+          "start": 191, 
+          "end": 191
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/33/", 
+        "number": 33, 
+        "name": "Воскресение: Черновые редакции и варианты"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 368, 
+          "end": 368
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/39/", 
+        "number": 39, 
+        "name": "Статьи, 1893—1898. Произведения, 1886, 1903—1909"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 233, 
+          "end": 233
+        }, 
+        {
+          "comment": 0, 
+          "start": 48, 
+          "end": 48
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/52/", 
+        "number": 52, 
+        "name": "Дневники и записные книжки, 1891—1894"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 376, 
+          "end": 376
+        }, 
+        {
+          "comment": 0, 
+          "start": 164, 
+          "end": 164
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/63/", 
+        "number": 63, 
+        "name": "Письма, 1880—1886"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 148, 
+          "end": 148
+        }, 
+        {
+          "comment": 1, 
+          "start": 148, 
+          "end": 148
+        }, 
+        {
+          "comment": 0, 
+          "start": 147, 
+          "end": 147
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/65/", 
+        "number": 65, 
+        "name": "Письма, 1890—1891 (январь — июнь)"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 287, 
+          "end": 287
+        }, 
+        {
+          "comment": 1, 
+          "start": 252, 
+          "end": 252
+        }, 
+        {
+          "comment": 1, 
+          "start": 251, 
+          "end": 251
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/66/", 
+        "number": 66, 
+        "name": "Письма, 1891 (июль — декабрь)"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 15, 
+          "end": 15
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/69/", 
+        "number": 69, 
+        "name": "Письма, 1896"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 139, 
+          "end": 139
+        }, 
+        {
+          "comment": 0, 
+          "start": 128, 
+          "end": 128
+        }
+      ]
+    }
+  ]
+}

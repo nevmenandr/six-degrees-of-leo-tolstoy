@@ -1,0 +1,75 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/33/", 
+        "number": 33, 
+        "name": "Воскресение: Черновые редакции и варианты"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 172, 
+          "end": 172
+        }, 
+        {
+          "comment": 0, 
+          "start": 167, 
+          "end": 167
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/39/", 
+        "number": 39, 
+        "name": "Статьи, 1893—1898. Произведения, 1886, 1903—1909"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 74, 
+          "end": 74
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/87/", 
+        "number": 87, 
+        "name": "Письма к В. Г. Черткову, 1890—1896"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 386, 
+          "end": 386
+        }, 
+        {
+          "comment": 0, 
+          "start": 384, 
+          "end": 384
+        }, 
+        {
+          "comment": 1, 
+          "start": 382, 
+          "end": 382
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/88/", 
+        "number": 88, 
+        "name": "Письма к В. Г. Черткову, 1897—1910"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 95, 
+          "end": 95
+        }
+      ]
+    }
+  ]
+}

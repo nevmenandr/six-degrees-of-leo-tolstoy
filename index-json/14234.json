@@ -1,0 +1,28 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/78/", 
+        "number": 78, 
+        "name": "Письма, 1908"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 127, 
+          "end": 127
+        }, 
+        {
+          "comment": 1, 
+          "start": 127, 
+          "end": 127
+        }, 
+        {
+          "comment": 0, 
+          "start": 126, 
+          "end": 126
+        }
+      ]
+    }
+  ]
+}

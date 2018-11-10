@@ -1,0 +1,51 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/17/", 
+        "number": 17, 
+        "name": "Произведения, 1863, 1870, 1872—1879, 1884"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 411, 
+          "end": 411
+        }, 
+        {
+          "comment": 0, 
+          "start": 19, 
+          "end": 19
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/33/", 
+        "number": 33, 
+        "name": "Воскресение: Черновые редакции и варианты"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 250, 
+          "end": 250
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/37/", 
+        "number": 37, 
+        "name": "Произведения, 1906—1910"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 89, 
+          "end": 89
+        }
+      ]
+    }
+  ]
+}

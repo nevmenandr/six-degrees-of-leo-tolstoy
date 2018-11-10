@@ -1,0 +1,37 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/32/", 
+        "number": 32, 
+        "name": "Воскресение"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 497, 
+          "end": 497
+        }, 
+        {
+          "comment": 0, 
+          "start": 365, 
+          "end": 365
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/33/", 
+        "number": 33, 
+        "name": "Воскресение: Черновые редакции и варианты"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 374, 
+          "end": 374
+        }
+      ]
+    }
+  ]
+}

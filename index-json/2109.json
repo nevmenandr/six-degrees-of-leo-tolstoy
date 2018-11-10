@@ -1,0 +1,28 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/77/", 
+        "number": 77, 
+        "name": "Письма, 1907—1908"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 312, 
+          "end": 312
+        }, 
+        {
+          "comment": 0, 
+          "start": 246, 
+          "end": 246
+        }, 
+        {
+          "comment": 1, 
+          "start": 246, 
+          "end": 246
+        }
+      ]
+    }
+  ]
+}

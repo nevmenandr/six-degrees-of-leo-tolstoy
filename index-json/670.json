@@ -1,0 +1,28 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/66/", 
+        "number": 66, 
+        "name": "Письма, 1891 (июль — декабрь)"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 49, 
+          "end": 49
+        }, 
+        {
+          "comment": 0, 
+          "start": 48, 
+          "end": 48
+        }, 
+        {
+          "comment": 1, 
+          "start": 48, 
+          "end": 48
+        }
+      ]
+    }
+  ]
+}

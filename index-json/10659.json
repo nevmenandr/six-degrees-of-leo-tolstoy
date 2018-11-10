@@ -1,0 +1,28 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/55/", 
+        "number": 55, 
+        "name": "Дневники и записные книжки, 1904—1906"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 584, 
+          "end": 584
+        }, 
+        {
+          "comment": 1, 
+          "start": 512, 
+          "end": 512
+        }, 
+        {
+          "comment": 0, 
+          "start": 301, 
+          "end": 301
+        }
+      ]
+    }
+  ]
+}

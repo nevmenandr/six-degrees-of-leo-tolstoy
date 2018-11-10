@@ -1,0 +1,47 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/66/", 
+        "number": 66, 
+        "name": "Письма, 1891 (июль — декабрь)"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 295, 
+          "end": 295
+        }, 
+        {
+          "comment": 0, 
+          "start": 282, 
+          "end": 282
+        }, 
+        {
+          "comment": 1, 
+          "start": 282, 
+          "end": 282
+        }, 
+        {
+          "comment": 0, 
+          "start": 281, 
+          "end": 281
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/68/", 
+        "number": 68, 
+        "name": "Письма, 1895"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 25, 
+          "end": 25
+        }
+      ]
+    }
+  ]
+}

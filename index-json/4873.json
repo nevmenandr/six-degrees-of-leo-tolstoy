@@ -1,0 +1,56 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/32/", 
+        "number": 32, 
+        "name": "Воскресение"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 387, 
+          "end": 387
+        }, 
+        {
+          "comment": 0, 
+          "start": 375, 
+          "end": 375
+        }, 
+        {
+          "comment": 0, 
+          "start": 373, 
+          "end": 373
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/33/", 
+        "number": 33, 
+        "name": "Воскресение: Черновые редакции и варианты"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 273, 
+          "end": 273
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/72/", 
+        "number": 72, 
+        "name": "Письма, 1899—1900"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 131, 
+          "end": 131
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/18/", 
+        "number": 18, 
+        "name": "Анна Каренина. Части 1—4"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 363, 
+          "end": 363
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/19/", 
+        "number": 19, 
+        "name": "Анна Каренина. Части 5—8"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 34, 
+          "end": 34
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/20/", 
+        "number": 20, 
+        "name": "Анна Каренина: Черновые редакции и варианты"
+      }, 
+      "mentions": [
+        {
+          "comment": 0, 
+          "start": 398, 
+          "end": 398
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/23/", 
+        "number": 23, 
+        "name": "Произведения, 1879—1884"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 536, 
+          "end": 536
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/36/", 
+        "number": 36, 
+        "name": "Произведения, 1904—1906"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 602, 
+          "end": 602
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/46/", 
+        "number": 46, 
+        "name": "Дневник, 1847—1854"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 338, 
+          "end": 338
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/47/", 
+        "number": 47, 
+        "name": "Дневники и записные книжки, 1854—1857"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 287, 
+          "end": 287
+        }, 
+        {
+          "comment": 1, 
+          "start": 284, 
+          "end": 284
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/49/", 
+        "number": 49, 
+        "name": "Записки христианина, дневники и записные книжки, 1881—1887"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 181, 
+          "end": 181
+        }
+      ]
+    }, 
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/86/", 
+        "number": 86, 
+        "name": "Письма к В. Г. Черткову, 1887—1889"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 14, 
+          "end": 14
+        }, 
+        {
+          "comment": 0, 
+          "start": 11, 
+          "end": 11
+        }
+      ]
+    }
+  ]
+}

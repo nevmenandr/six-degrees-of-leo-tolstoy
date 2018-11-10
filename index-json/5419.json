@@ -1,0 +1,23 @@
+{
+  "mentions": [
+    {
+      "volume": {
+        "link": "http://tolstoy.ru/online/90/61/", 
+        "number": 61, 
+        "name": "Письма, 1863—1872"
+      }, 
+      "mentions": [
+        {
+          "comment": 1, 
+          "start": 112, 
+          "end": 112
+        }, 
+        {
+          "comment": 0, 
+          "start": 111, 
+          "end": 111
+        }
+      ]
+    }
+  ]
+}
